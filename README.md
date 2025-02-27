@@ -4,7 +4,7 @@ Html, Css y JavaScript puro
 
 ## Funcionalidad
 * Poder mostrar la hora en dos formatos 12h o 24h según el gusto del usuario <br/>
-* Contar con cronometro <br/>
+* Cronometro <br/>
 * Temporizador <br/>
 * Alarma <br/>
 * Personalización de color del reloj
