@@ -52,5 +52,6 @@ document.addEventListener("DOMContentLoaded", () => {
         prueba.style.background = color;
     }    
     document.getElementById("color").addEventListener("input", colores);
+
 });
 
